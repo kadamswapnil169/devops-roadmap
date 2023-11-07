@@ -1,6 +1,6 @@
 # devops-roadmap
 step by step devops roadmap
-# DevSecOps & Cloud DevOps Roadmap Syllabus
+
 
 ![RoadMap 2024]
 
